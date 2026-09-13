@@ -1,0 +1,1 @@
+{"name":"echoes-of-aetheria","version":"0.2.0","private":true,"type":"module","scripts":{"test":"node --test","dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"three":"^0.180.0"},"devDependencies":{"vite":"^7.1.5","typescript":"^5.9.2"}}
